@@ -14,7 +14,7 @@ const danie = {
 }
 ```
 <br>
-<table width="100%" align="center"> 
+<table width="100%" align="center" style="border: 1px solid transparent"> 
   <tr>
   <td width="50%">
     
@@ -22,11 +22,12 @@ const danie = {
   
   </td>
   <td width="50%">
-    <p align="center">
-      <a href="https://www.linkedin.com/in/danielatorrel/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+    <p align="center"><samp>Ask me something :sparkles:</samp></p>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/danielatorrel/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+      </p>
   </a>
-    </p>
       
   </td>
  </table>
