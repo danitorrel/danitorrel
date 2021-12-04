@@ -13,8 +13,8 @@ const danie = {
   workingOn: "Learning React before year's end"
 }
 ```
-
-<table width="100%"> 
+<br>
+<table width="100%" align="center"> 
   <tr>
   <td width="50%">
     
@@ -22,8 +22,10 @@ const danie = {
   
   </td>
   <td width="50%">
-    <p>
-      [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielatorrel/)
+    <p align="center">
+      <a href="https://www.linkedin.com/in/danielatorrel/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
     </p>
       
   </td>
