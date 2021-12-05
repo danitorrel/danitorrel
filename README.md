@@ -27,7 +27,7 @@ let laboratorian = {
   <tr>
   <td width="50%">
     
-&nbsp; <br>[![Spotify](https://github-profile-beryl.vercel.app/api/spotify)](https://open.spotify.com/user/224j5gewm545b7yadh4thhgqy)
+&nbsp; <br>[![Spotify](https://github-profile-beryl.vercel.app/api/spotify)](https://open.spotify.com/playlist/1O04s5xgdvp2JX07qxCy3J)
   
   </td>
   <td width="50%">
