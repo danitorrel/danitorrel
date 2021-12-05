@@ -1,8 +1,7 @@
-<p align="center">
-  <img width="40%" src="https://media.giphy.com/media/duu3KJnFuIAm9H3szE/giphy.gif">
-</p>
-
-<h4 align="center"><samp>Coucou stranger </samp></h4>
+<p>
+  <h4><samp>Coucou stranger </samp></h4><br>
+  <img align="left" width="40%" src="https://media.giphy.com/media/duu3KJnFuIAm9H3szE/giphy.gif">
+</p><br>
 
 ```javascript
 const danie = {
@@ -14,7 +13,7 @@ const danie = {
 }
 ```
 <br>
-<table width="100%" align="center" style="border: 1px solid transparent"> 
+<table width="100%" align="center" style="border: none"> 
   <tr>
   <td width="50%">
     
