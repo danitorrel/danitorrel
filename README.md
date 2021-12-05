@@ -40,4 +40,4 @@ let laboratorian = {
   </td>
  </table>
  <br><br><br>
-    <h4 align="center"><samp>Made in <img src="https://firebasestorage.googleapis.com/v0/b/labnotes-2021.appspot.com/o/20200317123346_Laboratoria_Logo_RGB_01.png?alt=media&token=78abbe2a-9d5d-4c7f-8efe-a4020ecd7c49" alt="laboratoria" width="70" />  2O21 💛</samp></h4>
+    <h4 align="center"><samp>Made in  <img src="https://firebasestorage.googleapis.com/v0/b/labnotes-2021.appspot.com/o/laboratoria_logo.png?alt=media&token=fb19da30-b923-4e7e-9414-3f6fa2753fa2" alt="laboratoria" width="80" />  2O21 💛</samp></h4>
