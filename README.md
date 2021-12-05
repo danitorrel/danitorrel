@@ -2,8 +2,8 @@
   
   &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&color=%23F7A498&size=50&vCenter=true&lines=Coucou+stranger)](https://git.io/typing-svg)
   <br><br>
-  <img align="left" width="35%" src="https://media.giphy.com/media/fggmAofqM1opfRam3W/giphy.gif"><br><br>
-</p><br><br><br>
+  <img align="left" width="31%" src="https://media.giphy.com/media/fggmAofqM1opfRam3W/giphy.gif"><br><br>
+</p><br>
 
 ```javascript
 let laboratorian = {
