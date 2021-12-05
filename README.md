@@ -3,7 +3,7 @@
   &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&color=%23F7A498&size=50&vCenter=true&lines=Coucou+stranger)](https://git.io/typing-svg)
   <br><br>
   <img align="left" width="35%" src="https://media.giphy.com/media/fggmAofqM1opfRam3W/giphy.gif"><br><br>
-</p><br>
+</p><br><br><br>
 
 ```javascript
 let laboratorian = {
@@ -22,7 +22,7 @@ let laboratorian = {
   <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-</p><br>
+</p><br><br>
 <table width="100%" align="center" style="border: none"> 
   <tr>
   <td width="50%">
