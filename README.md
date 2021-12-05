@@ -33,10 +33,9 @@ let laboratorian = {
   <td width="50%">
     <p align="center"><samp>Let's talk :love_letter:</samp></p>
       <p align="center">
-        <a href="https://www.linkedin.com/in/danielatorrel/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=D96C80" alt="LinkedIn"/>
+        <a href="https://www.linkedin.com/in/danielatorrel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=D96C80" alt="LinkedIn"/>
+        <a href="mailto:torreslz.dan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
       </p>
-  </a>
       
   </td>
  </table>
