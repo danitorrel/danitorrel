@@ -10,7 +10,7 @@ let laboratorian = {
   location: "Mexico City",
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
-  tools: [React, Sass, Node, Firebase, Figma, Jest],
+  tools: [React, Sass, Node, Firebase, Figma, Illustrator, Photoshop, Jest],
   learning: "React before year's end"
 }
 ```
