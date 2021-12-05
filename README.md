@@ -1,10 +1,10 @@
 <p>
-  <h4><samp>Coucou stranger </samp></h4><br>
-  <img align="left" width="40%" src="https://media.giphy.com/media/duu3KJnFuIAm9H3szE/giphy.gif">
+  <h3><samp>Coucou stranger </samp></h4><br>
+  <img align="left" width="30%" src="https://media.giphy.com/media/duu3KJnFuIAm9H3szE/giphy.gif"><br>
 </p><br>
 
 ```javascript
-const danie = {
+let danie = {
   location: "Mexico City",
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
@@ -12,7 +12,7 @@ const danie = {
   workingOn: "Learning React before year's end"
 }
 ```
-<br>
+<hr>
 <table width="100%" align="center" style="border: none"> 
   <tr>
   <td width="50%">
