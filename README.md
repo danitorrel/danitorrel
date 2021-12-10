@@ -1,8 +1,8 @@
 <p>
   
   &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&color=%23F7A498&size=50&vCenter=true&lines=Coucou+stranger)](https://git.io/typing-svg)
-  <br><br>
-  <img align="left" width="31%" src="https://media.giphy.com/media/fggmAofqM1opfRam3W/giphy.gif"><br><br>
+  <br>
+  <img align="right" width="31%" src="https://media.giphy.com/media/fggmAofqM1opfRam3W/giphy.gif"><br><br>
 </p><br>
 
 ```javascript
@@ -40,4 +40,5 @@ let laboratorian = {
   </td>
  </table>
  <br><br><br>
-    <h4 align="center"><samp>Made in  <img src="https://firebasestorage.googleapis.com/v0/b/labnotes-2021.appspot.com/o/laboratoria_logo.png?alt=media&token=fb19da30-b923-4e7e-9414-3f6fa2753fa2" alt="laboratoria" width="80" />  2O21 💛</samp></h4>
+    <h4 align="center"><samp>Made in  <img src="https://firebasestorage.googleapis.com/v0/b/labnotes-2021.appspot.com/o/laboratoria_logo.png?alt=media&token=fb19da30-b923-4e7e-9414-3f6fa2753fa2" alt="laboratoria" width="80" />  2O21</samp></h4>
+    <p align="center">  :green_heart:</p>
