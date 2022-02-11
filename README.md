@@ -11,7 +11,7 @@ let laboratorian = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React, Sass, Node, Firebase, Figma, Illustrator, Photoshop, Jest],
-  learning: "React before year's end"
+  learning: "Angular and TypeScript"
 }
 ```
 <hr><br><br>
